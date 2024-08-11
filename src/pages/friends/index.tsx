@@ -9,12 +9,12 @@ import { motion } from 'framer-motion'
 import styles from './styles.module.css'
 
 const TITLE = '友链'
-const DESCRIPTION = '有很多良友，胜于有很多财富。'
-const ADD_FRIEND_URL = 'https://github.com/kuizuo/blog/edit/main/data/friends.tsx'
+const DESCRIPTION = '一同分享进步。'
+const ADD_FRIEND_URL = 'https://github.com/lcekold/Embedded_Laboratory_of_Shanxi_Agricultural_University/edit/main/data/friends.tsx'
 const SITE_INFO = `
-title: '愧怍'
+title: '山西农业大学嵌入式实验室'
 description: '道阻且长，行则将至'
-website: 'https://kuizuo.cn'
+website: 'http://140.143.167.209'
 avatar: 'https://kuizuo.cn/img/logo.png'
 `
 

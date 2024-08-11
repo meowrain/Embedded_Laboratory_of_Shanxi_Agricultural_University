@@ -18,11 +18,11 @@ type SocialValue = {
 }
 
 const social: Social = {
-  github: 'https://github.com/kuizuo',
-  //juejin: 'https://juejin.cn/user/1565318510545901',
+  github: 'https://github.com/lcekold',
+  juejin: 'https://cdn.jsdelivr.net/gh/lcekold/blogimage@main/Network/wechat.jpg',
   //x: 'https://twitter.com/kuizuo',
-  qq: 'https://img.kuizuo.cn/qq.png',
-  wx: 'https://img.kuizuo.cn/wechat.png',
+  qq: 'https://cdn.jsdelivr.net/gh/lcekold/blogimage@main/Network/QQ.jpg',
+  wx: 'https://cdn.jsdelivr.net/gh/lcekold/blogimage@main/Network/wechat.jpg',
   // zhihu: 'https://www.zhihu.com/people/kuizuo',
   // cloudmusic: 'https://music.163.com/#/user/home?id=1333010742',
   email: 'mailto:hi@kuizuo.cn',

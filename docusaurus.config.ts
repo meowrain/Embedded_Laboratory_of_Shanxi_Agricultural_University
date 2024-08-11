@@ -4,8 +4,8 @@ import { themes } from 'prism-react-renderer'
 import social from './data/social'
 import type { GiscusConfig } from './src/components/Comment'
 
-const beian = '闽ICP备2020017848号-2'
-const beian1 = '闽公网安备35021102000847号'
+const beian = ''
+const beian1 = ''
 
 const config: Config = {
   title: '山西农业大学嵌入式实验室',
@@ -13,7 +13,7 @@ const config: Config = {
   baseUrl: '/',
   favicon: 'img/LabIconss.png',
   organizationName: 'SXAUELS',
-  projectName: 'blog',
+  projectName: 'Embedded_Laboratory_of_Shanxi_Agricultural_University',
   customFields: {
     bio: '道阻且长，行则将至',
     description:
@@ -53,9 +53,14 @@ const config: Config = {
       hideOnScroll: true,
       items: [
         {
+          label:"近期更新",
+          position:"right",
+          to:'blog',
+        },
+        {
           label: '章程',
           position: 'right',
-          to: 'blog/ZhangCheng',
+          to: 'docs/constitution',
         },
         {
           label: '公告',
@@ -63,9 +68,9 @@ const config: Config = {
           to: 'project',
         },
         {
-          label: '代码规范',
+          label: '学习推荐',
           position: 'right',
-          to: 'docs/tools',
+          to: 'docs/StudySource',
         },
         {
           label: '更多',
@@ -124,7 +129,7 @@ const config: Config = {
               html: `
                 <a href="https://docusaurus.io/zh-CN/" target="_blank" rel="noreferrer noopener">
                   <img src="/img/buildwith.png" alt="build with docusaurus" width="120" height="50"/>
-                <a/>
+                </a>
                 `,
             },
           ],
@@ -293,7 +298,7 @@ const config: Config = {
       )
 
       const motto = `
-This Webisite Powered By Kz Blog.
+This Webisite Powered By icekold.
 Written by Docusaurus, Coding with Love.
 --------
 Love what you do and do what you love.
