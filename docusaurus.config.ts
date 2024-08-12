@@ -13,7 +13,7 @@ const config: Config = {
   baseUrl: '/lab',
   favicon: 'img/LabIconss.png',
   organizationName: 'SXAUELS',
-  projectName: 'Embedded_Laboratory_of_Shanxi_Agricultural_University',
+  projectName: 'lab',
   customFields: {
     bio: '道阻且长，行则将至',
     description:
