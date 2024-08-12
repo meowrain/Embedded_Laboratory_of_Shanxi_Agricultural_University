@@ -10,10 +10,10 @@ const beian1 = ''
 const config: Config = {
   title: '山西农业大学嵌入式实验室',
   url: 'https://meowrain.github.io',
-  baseUrl: '/lab',
+  baseUrl: '/Embedded_Laboratory_of_Shanxi_Agricultural_University',
   favicon: 'img/LabIconss.png',
   organizationName: 'SXAUELS',
-  projectName: 'lab',
+  projectName: 'Embedded_Laboratory_of_Shanxi_Agricultural_University',
   customFields: {
     bio: '道阻且长，行则将至',
     description:
