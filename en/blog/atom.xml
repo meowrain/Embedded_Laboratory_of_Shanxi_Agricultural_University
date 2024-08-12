@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog</id>
     <title>SXAUEL</title>
-    <updated>2024-08-12T05:09:40.000Z</updated>
+    <updated>2024-08-12T05:23:30.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog"/>
     <subtitle>山西农业大学嵌入式实验室 Blog</subtitle>
@@ -12,7 +12,7 @@
         <title type="html"><![CDATA[constitution/2.实验室联系方式]]></title>
         <id>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/constitution/2.实验室联系方式</id>
         <link href="https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/constitution/2.实验室联系方式"/>
-        <updated>2024-08-12T05:09:40.000Z</updated>
+        <updated>2024-08-12T05:23:30.000Z</updated>
         <summary type="html"><![CDATA[124564]]></summary>
         <content type="html"><![CDATA[<p>124564</p>]]></content>
     </entry>
@@ -20,7 +20,7 @@
         <title type="html"><![CDATA[测试]]></title>
         <id>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/introduction</id>
         <link href="https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/introduction"/>
-        <updated>2024-08-12T05:09:40.000Z</updated>
+        <updated>2024-08-12T05:23:30.000Z</updated>
         <summary type="html"><![CDATA[本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于]]></summary>
         <content type="html"><![CDATA[<p>本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于</p>
 <ul>
