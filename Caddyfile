@@ -1,0 +1,4 @@
+example.com {
+    root ~/wwwroot/Embedded_Laboratory_of_Shanxi_Agricultural_University
+    file_server
+}
