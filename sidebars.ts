@@ -23,6 +23,7 @@ const sidebars: SidebarsConfig = {
     'constitution/Laboratory-culture-protocol',
     'constitution/Laboratory-selection-regulations',
     'constitution/Laboratory-assessment-methods',
+    'constitution/Welcome',
   ],
 }
 
