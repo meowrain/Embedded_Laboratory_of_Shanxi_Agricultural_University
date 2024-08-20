@@ -1,29 +1,8 @@
 ---
 id: introduction
 slug: /constitution
-title: 测试
-keywords:
-  - 前端
-  - 后端
-  - Vue
-  - React
-  - JavaScript
-  - Typescript
-  - 逆向
-  - HTTP
-  - 算法
+title: 实验室相关规定
+keywords: [实验室，相关规定]
 ---
 
-本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于
-
-- Web
-- 前端
-- 后端
-- Vue
-- React
-- JavaScript & TypeScript
-- Node
-- 安卓
-- 逆向
-- HTTP
-- 算法
+本页面展示实验室的相关规定、

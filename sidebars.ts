@@ -11,16 +11,18 @@ const sidebars: SidebarsConfig = {
     'tools/vite-plugin',
     'tools/jetbrains-product-activation-method',
   ],
-  test:[
-    'test/introduction',
-    'test/test',
-    'test/good',
-    'test/nm',
-  ],
+  // test:[
+  //   'test/introduction',
+  //   'test/test',
+  //   'test/good',
+  //   'test/nm',
+  // ],
   constitution:[
     'constitution/introduction',
     'constitution/Laboratory-charter',
     'constitution/Laboratory-culture-protocol',
+    'constitution/Laboratory-selection-regulations',
+    'constitution/Laboratory-assessment-methods',
   ],
 }
 
