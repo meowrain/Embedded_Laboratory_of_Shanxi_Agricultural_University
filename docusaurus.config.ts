@@ -9,7 +9,7 @@ const beian1 = ''
 
 const config: Config = {
   title: '山西农业大学嵌入式实验室',
-  url: 'https://meowrain.github.io',
+  url: 'https://lcekold.github.io',
   baseUrl: '/Embedded_Laboratory_of_Shanxi_Agricultural_University',
   favicon: 'img/LabIconss.png',
   organizationName: 'SXAUELS',
